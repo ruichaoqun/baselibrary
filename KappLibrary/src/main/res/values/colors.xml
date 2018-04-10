@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="color_dbdbdb">#dbdbdb</color>
+    <color name="none">#00000000</color>
+    <color name="color_2c000000">#2C000000</color>
+    <color name="color_3f000000">#3F000000</color>
+    <color name="color_7f000000">#7f000000</color>
+    <color name="color_8a000000">#8A000000</color>
+    <color name="color_2Cffffff">#2Cffffff</color>
+    <color name="color_80000000">#bee0dfdf</color>
+    <color name="topbg_2c2b33">#2c2b33</color>
+    <color name="color_FBCC0D">#FBCC0D</color>
+    <color name="color_A7A7A7">#A7A7A7</color>
+    <color name="color_theme">#1261A4</color>
+    <color name="passcolor">#08000000</color>
+    <color name="color_orange">#F89F3B</color>
+    <color name="color_pink">#FF9BA5</color>
+    <color name="color_pink_click">#FE6b92</color>
+    <color name="white">@color/color_FFFFFF</color>
+    <color name="mid_grey">#40808080</color>
+    <color name="font_gre">#26c43f</color>
+    <color name="color_FAFAFC">#FAFAFC</color>
+
+
+    <color name="color_111111">#111111</color>
+    <color name="color_1B1B1B">#1B1B1B</color>
+    <color name="color_222222">#222222</color>
+    <color name="color_333333">#333333</color>
+    <color name="color_444444">#444444</color>
+    <color name="color_555555">#555555</color>
+    <color name="color_666666">#666666</color>
+    <color name="color_777777">#777777</color>
+    <color name="color_888888">#888888</color>
+    <color name="color_999999">#999999</color>
+    <color name="color_AAAAAA">#AAAAAA</color>
+    <color name="color_BBBBBB">#BBBBBB</color>
+    <color name="color_CCCCCC">#CCCCCC</color>
+    <color name="color_DDDDDD">#DDDDDD</color>
+    <color name="color_FFFFFF">#FFFFFF</color>
+    <color name="color_E0E0E0">#E0E0E0</color>
+    <color name="color_50E1A1">#50E1A1</color>
+    <color name="color_FA3D3D">#FA3D3D</color>
+    <color name="color_F3F3F3">#F3F3F3</color>
+    <color name="color_FED883">#FED883</color>
+    <color name="color_58EA8E">#58EA8E</color>
+
+
+    <!-- 横线背景 -->
+    <color name="line_bg">#F3F3F5</color>
+    <color name="ui_bgs">#F3F4F8</color>
+
+    <!-- public color -->
+    <color name="tab_main_text_1">#aaa</color>
+    <color name="tab_main_text_2">#74b5f7</color>
+    <color name="tab_top_text_1">#aaa</color>
+    <color name="tab_top_text_2">#000</color>
+    <color name="tab_top2_text_1">#000</color>
+    <color name="tab_top2_text_2">#fff</color>
+
+    <color name="color_DD666666">#DD666666</color>
+
+    <color name="oval_pink">#fe9393</color>
+    <color name="oval_light_yellow">#f4b400</color>
+    <color name="oval_light_blue">#427fed</color>
+    <color name="oval_light_green">#67cdb7</color>
+    <color name="oval_purple">#9b73e6</color>
+    <color name="oval_brown">#CCFD8225</color>
+    <color name="color_FFC22C">#FFC22C</color>
+    <color name="color_0EB0FF">#0EB0FF</color>
+    <color name="color_24C43E">#24C43E</color>
+    <color name="color_33C8DE">#33C8DE</color>
+
+
+    <color name="text_5e">#5e5e5e</color>
+
+    <color name="theme_body">#cc22292c</color>
+    <color name="theme_body_dark">#cc20272a</color>
+
+
+    <color name="black">#000000</color>
+    <color name="dark">#9f111111</color>
+
+    <color name="bgColor_overlay">#60000000</color>
+    <color name="pickerview_wheelview_textcolor_out">#a8a8a8</color>
+    <color name="pickerview_wheelview_textcolor_center">#0E88EB</color>
+    <color name="pickerview_wheelview_textcolor_divider">#d5d5d5</color>
+</resources>

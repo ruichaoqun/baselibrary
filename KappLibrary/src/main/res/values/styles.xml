@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- dialog样式 -->
+    <style name="dialog_custom" parent="@android:style/Theme.Dialog">
+        <item name="android:windowIsFloating">true</item>    <!--是否浮在界面上-->
+        <item name="android:windowIsTranslucent">true</item> <!--是否半透明-->
+        <item name="android:windowNoTitle">true</item>       <!--是否有标题-->
+        <item name="android:backgroundDimEnabled">true</item> <!--背景是否模糊显示-->
+        <item name="android:windowBackground">@android:color/transparent</item> <!--窗口背景色透明-->
+    </style>
+
+
+    <!-- 横线 -->
+    <style name="base_horiz_line">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/dp_0d5</item>
+        <item name="android:background">@color/line_bg</item>
+    </style>
+
+
+    <!-- 横线 -->
+    <style name="base_horiz_line_thick">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/dp_10</item>
+        <item name="android:background">@color/line_bg</item>
+    </style>
+
+    <!-- 横线 带左右边距10dp -->
+    <style name="base_horiz_line_ii">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/dp_0d5</item>
+        <item name="android:layout_marginLeft">@dimen/dp_10</item>
+        <item name="android:layout_marginRight">@dimen/dp_10</item>
+        <item name="android:background">@color/line_bg</item>
+    </style>
+
+    <style name="TabLayoutTextStyle">
+        <item name="android:textSize">@dimen/dp_18</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!--  这个是加入的代码 -->
+    <style name="popupwindow_anim_style">
+        <item name="android:windowEnterAnimation">@anim/show_from_bottom</item>
+        <!-- 指定显示的动画xml -->
+        <item name="android:windowExitAnimation">@anim/hide2bottom</item>
+        <!-- 指定消失的动画xml -->
+    </style>
+</resources>

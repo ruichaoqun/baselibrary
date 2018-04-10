@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="app_base_id" type="id"/>
+    <item name="controls" type="id"/>
+    <item name="controls1" type="id"/>
+    <item name="controls2" type="id"/>
+    <item name="controls3" type="id"/>
+    <item name="controls4" type="id"/>
+    <item name="controls5" type="id"/>
+    <item name="controls6" type="id"/>
+
+    <item name="layout" type="id"/>
+    <item name="layout1" type="id"/>
+</resources>
